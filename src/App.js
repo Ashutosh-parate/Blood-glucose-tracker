@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from "./components/images/logo.png";
+import logo from "./components/images/logoOp.png";
 
 function GlucoseForm() {
   const [patientName, setPatientName] = useState('');
